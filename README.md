@@ -10,7 +10,9 @@ Usage:
 
 Thanks for your interest in learning UI Technologies.
 
-Please Click on "Follow Me" Button for more updates, Stay Connected.
+Please "Sign Up" to Github and Click on "Follow" Button (below my Profile) for latest updates.
+
+Stay Connected.
 
 Happy Learning :)
 
