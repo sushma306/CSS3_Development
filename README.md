@@ -7,5 +7,5 @@ Usage:
 4) Load it to your Editor
 5) Follow my classes regularly for Updated Templates.
 
-Thanks & Regards,
+Thanks & Regards
 NAVEEN SAGGAM
