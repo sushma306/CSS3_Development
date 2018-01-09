@@ -2,11 +2,11 @@
 
 Usage:
 
-1) Please download "CSS_Stater_Template".
-2) Copy to your safest folder like D:\ or E:\
-3) Extract it
-4) Load it to your Editor
-5) Follow my classes regularly for Updated Code.
+    Please download "CSS_Stater_Template".
+    Copy to your safest folder like D:\ or E:\
+    Extract it
+    Load it to your Editor
+    Follow my classes regularly for Updated and Completed Code.
 
 Thanks for your interest in learning UI Technologies.
 
@@ -17,3 +17,4 @@ Stay Connected.
 Happy Learning :)
 
 Your's NAVEEN SAGGAM
+
