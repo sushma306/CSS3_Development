@@ -16,5 +16,4 @@ Stay Connected.
 
 Happy Learning :)
 
-Your's NAVEEN SAGGAM
 
