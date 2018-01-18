@@ -1,7 +1,7 @@
 # CSS3_Development
 
 Usage:
-hjkhkjhkhkhkkj
+
     Please download "CSS_Stater_Template".
     Copy to your safest folder like D:\ or E:\
     Extract it
